@@ -1,0 +1,23 @@
+body {
+    background-color: darkcyan;
+    font-family: Arial;
+}
+
+header {
+    text-align: center;
+    color: rgb(190, 124, 0);
+    margin: 10px;
+    padding: 20px;
+    text-shadow: 2px 2px black;
+}
+
+main, footer {
+    margin: 10px;
+    padding: 10px;
+}
+
+#result {
+    font-weight: bold;
+    margin: 5px;
+    padding: 2px;
+}
